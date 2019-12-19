@@ -25,8 +25,6 @@ using Uwe1NetApi;
 
 
 
-// bill.zhang test git;
-
 /**
  * The smart warehouse management system for TaoBao order sorting.
  * */
