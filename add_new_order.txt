@@ -1,0 +1,18 @@
+
+// create order;
+http://222.186.36.185:9105/trade/wx/order/add.json?data={"group":"gmshop","userID": "2423153530053333","orderNo": "WX2019101700000000000001","expressInfo":{"expressName": "测试1","expressCell": "13999999999","expressPhone": "029-88888888","expressProvince": "陕西省","expressCity": "西安市","expressDistrict": "雁塔区","expressAddr": "高新路8号","expressPost": "710000"},"invoiceInfo":{"invoiceType": "个人","invoiceTitle": "个人","invoiceTaxNum": ""},"itemsList": [{"skuNo": "011901440210","skuName": "男2019针织1漂白男上装S","price": "399.00","salePrice": "299.00","count": 1}]}
+// create dispatch;
+http://222.186.36.185:9105/sorting/createSortingOrder.json
+
+
+
+
+
+
+
+
+
+
+
+
+
